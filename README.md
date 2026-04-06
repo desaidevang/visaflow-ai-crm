@@ -60,11 +60,6 @@ Lead → Counselling → Coaching → Application → Visa → Success
 ![Pipeline](./screenshots/pipeline.png)
 
 
-### Other Screenshots
-![Pipeline](./screenshots/other1.png)
-
-### 
-![Pipeline](./screenshots/other12.png)
 ---
 
 ### Key Capabilities:
