@@ -46,18 +46,23 @@ Lead → Counselling → Coaching → Application → Visa → Success
 
 ## 📸 Screenshots
 
-### 🖥️ Admin Dashboard
-![Dashboard](./screenshots/dashboard.png)
+### 🖥️ Dashboard & Analytics
+<img src="./screenshots/1d.png" width="100%" />
 
----
+### 📊 Lead Management System
+<img src="./screenshots/2d.png" width="100%" />
 
-### 🤖 AI Chatbot (VisaFlow Buddy)
-![Chatbot](./screenshots/chatbot.png)
+### 💬 AI Counselor Chatbot (VisaFlow Buddy)
+<img src="./screenshots/6d.png" width="100%" />
 
----
+### 🧠 Counselling Pipeline
+<img src="./screenshots/3d.png" width="100%" />
 
-### 📊 Pipeline & Lead Management
-![Pipeline](./screenshots/pipeline.png)
+### 📄 Application Management
+<img src="./screenshots/4d.png" width="100%" />
+
+### 🎓 Student Visa Management
+<img src="./screenshots/5d.png" width="100%" />
 
 
 ---
